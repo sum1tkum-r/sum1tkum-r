@@ -50,3 +50,7 @@ I am a passionate CS student at **Bihar Engineering University** with a focus on
 
 ### ⚡ Fun Fact
 I believe that solving a complex Ordinary Differential Equation is just as poetic as a Francis Bacon essay.
+
+## Author 
+
+- **Mr.** Sumit Kumar
