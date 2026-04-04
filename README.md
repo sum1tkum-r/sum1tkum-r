@@ -30,8 +30,8 @@ I am a passionate CS student at **Bihar Engineering University** with a focus on
     * Focuses on technical workflows to reduce urban congestion using real-time data.
 * **Python Automation & Web Lab Projects**
     * A collection of logic-based Python scripts and structured HTML/CSS web design experiments.
-* **Bilingual Translation & Evaluation**
-    * Work involving high-accuracy Hindi-English linguistic assessments and AI reviewing.
+* **Anime Enthuastic**
+    * Strongly influenced by Japanese animated media in approaches to worldbuilding and creative thinking.
 
 ---
 
