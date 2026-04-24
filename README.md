@@ -44,7 +44,7 @@ I am a passionate CS student at **Bihar Engineering University** with a focus on
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Your Profile Link Here]
+* **LinkedIn:** https://www.linkedin.com/in/sumit-kumar-0a0139378/
 * **Portfolio:** [Your Netlify Link Here]
 
 ---
