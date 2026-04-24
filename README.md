@@ -37,6 +37,7 @@ I am a passionate CS student at **Bihar Engineering University** with a focus on
 
 ### 📊 Academic Interests
 * **Engineering Mathematics:** Deep interest in Linear Algebra, Fourier Series, and Differential Equations.
+* **Current Watchlist:** Avatar: The last Airbender
 * **Languages:** Native Hindi speaker, proficient in English, and currently exploring basic **Japanese**.
 * **Literature:** Admirer of classic English prose and poetry.
 
